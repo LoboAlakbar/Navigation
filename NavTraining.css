@@ -1,0 +1,22 @@
+.navbar{
+  overflow: hidden;
+  background-color: pink;
+}
+
+.navbar a {
+  float: left;
+  color: purple;
+  text-align: center;
+  padding: 10px 20px;
+  font-size: 20px;
+}
+
+.navbar a:hover {
+  background-color: black;
+  color: orange;
+}
+
+.navbar a.active{
+  background-color: Purple;
+  color: White;
+}
